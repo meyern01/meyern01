@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,55:13405C,100:2EC4B6&height=210&section=header&text=Alfonso%20M%C3%A9ndez&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20of%20Kodiak&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Alfonso Méndez — Full-Stack Developer · Founder of Kodiak" />
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Sobre mí · About me
+## Sobre mí · About me
 
 Soy **Ingeniero en Software y Redes** y fundador de **[Kodiak](https://getkodiak.dev)**, una empresa de desarrollo de software donde diseño y construyo aplicaciones web para negocios reales, **de la idea a producción**: base de datos, lógica de negocio, paneles administrativos, automatizaciones e integraciones.
 
@@ -24,7 +24,7 @@ Soy **Ingeniero en Software y Redes** y fundador de **[Kodiak](https://getkodiak
 ```ts
 const alfonso = {
   role:      "Full-Stack Developer · Founder @ Kodiak",
-  location:  "Monterrey, N.L., México 🇲🇽",
+  location:  "Monterrey, N.L., México",
   education: "Ing. en Software y Redes — UVM (9.8/10)",
   stack:     ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "Supabase"],
   building:  ["SaaS end-to-end", "Apps móviles (Expo)", "Sistemas en tiempo real", "Bots de WhatsApp"],
@@ -36,7 +36,7 @@ const alfonso = {
 
 ---
 
-## 🛠️ Tecnologías · Tech stack
+## Tecnologías · Tech stack
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
@@ -57,19 +57,19 @@ const alfonso = {
 
 ---
 
-## 📂 Proyectos destacados · Featured projects
+## Proyectos destacados · Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/meyern01/el-mezquite-pos">🔥 El Mezquite — POS en tiempo real</a></h3>
+      <h3><a href="https://github.com/meyern01/el-mezquite-pos">El Mezquite — POS en tiempo real</a></h3>
       Landing + sistema de punto de venta con 3 pantallas (caja, cocina y repartidor) sincronizadas en tiempo real para un negocio de comida en operación.<br/>
       <i>Real-time 3-screen POS + public site for a live food business.</i><br/><br/>
       <code>Next.js</code> <code>Supabase Realtime</code> <code>Framer Motion</code> <code>Vercel</code><br/><br/>
       <a href="https://mezquite-dk-theta.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-Live_demo-2EC4B6?style=flat-square" alt="Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/meyern01/arabsa-b2b-platform">🏭 Arabsa — Plataforma B2B</a></h3>
+      <h3><a href="https://github.com/meyern01/arabsa-b2b-platform">Arabsa — Plataforma B2B</a></h3>
       Reemplaza las cotizaciones por teléfono y WhatsApp: roles (Admin, Ventas, Facturación), crédito y facturación, catálogos PDF y métricas en tiempo real.<br/>
       <i>B2B quoting & invoicing SaaS with role-based access.</i><br/><br/>
       <code>Next.js 16</code> <code>TypeScript</code> <code>PostgreSQL + RLS</code> <code>GitHub Actions</code><br/><br/>
@@ -78,14 +78,14 @@ const alfonso = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/meyern01/barberia-booking-saas">💈 Barbería SaaS — Reservas</a></h3>
+      <h3><a href="https://github.com/meyern01/barberia-booking-saas">Barbería SaaS — Reservas</a></h3>
       Reservas en tiempo real con bot de WhatsApp, recordatorios automáticos, prevención de doble reservación y dashboard financiero por barbero.<br/>
       <i>Real-time booking with a WhatsApp bot and financial dashboard.</i><br/><br/>
       <code>Next.js 14</code> <code>WhatsApp Cloud API</code> <code>Supabase</code> <code>Vercel Cron</code><br/><br/>
       <a href="https://barberia-fonseca.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-Live_demo-2EC4B6?style=flat-square" alt="Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/meyern01/leyva-fitness-platform">🏋️ Leyva Fitness — Entrenador personal</a></h3>
+      <h3><a href="https://github.com/meyern01/leyva-fitness-platform">Leyva Fitness — Entrenador personal</a></h3>
       Portal dual entrenador/cliente con autenticación independiente, arquitectura de seguridad "deny-all" y cálculo automático de macros.<br/>
       <i>Dual-portal coaching app with deny-all security architecture.</i><br/><br/>
       <code>React + Vite</code> <code>Edge Functions (Deno)</code> <code>JWT</code> <code>USDA API</code><br/><br/>
@@ -94,7 +94,7 @@ const alfonso = {
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3><a href="https://github.com/meyern01/kodiak-website">🐻 Kodiak — Mi empresa · My company</a></h3>
+      <h3><a href="https://github.com/meyern01/kodiak-website">Kodiak — Mi empresa · My company</a></h3>
       Sitio de mi empresa de desarrollo de software, con animaciones scroll-driven, componentes accesibles y formulario de cotización.<br/>
       <i>My software company's website — scroll-driven animations and accessible components.</i><br/><br/>
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind v4</code> <code>GSAP</code> <code>Lenis</code><br/><br/>
@@ -103,21 +103,21 @@ const alfonso = {
   </tr>
 </table>
 
-### 🧪 Más proyectos · More projects
+### Más proyectos · More projects
 
 | Proyecto | Qué es · What it is | Stack |
 |---|---|---|
-| 📱 **Lattice** | App móvil de fitness: rutinas, comidas, registros corporales y fotos de progreso · *Fitness mobile app* | `React Native` `Expo` `Supabase` |
-| 🚚 **Bitácora+** | App móvil offline-first para transportistas: viajes, gastos, metas y reportes PDF · *Offline-first trucking app* | `React Native` `Expo` `SQLite` |
-| 🔧 **STAEL** | Gestión de taller de reparación: tickets, estados y comprobantes PDF · *Repair shop management* | `React` `Zustand` `Supabase` |
-| 💉 **Captura de Vacunas** | Digitaliza la captura del formato de vacunación desde el celular · *Mobile-first vaccination records* | `Next.js` `Supabase` `pdf-lib` |
-| 🤖 **[OaxacoBOT](https://github.com/meyern01/OaxacoBOT)** | Bot de Discord con música, moderación, niveles, tickets y panel web · *All-in-one Discord bot* | `Node.js` `discord.js` |
+| **Lattice** | App móvil de fitness: rutinas, comidas, registros corporales y fotos de progreso · *Fitness mobile app* | `React Native` `Expo` `Supabase` |
+| **Bitácora+** | App móvil offline-first para transportistas: viajes, gastos, metas y reportes PDF · *Offline-first trucking app* | `React Native` `Expo` `SQLite` |
+| **STAEL** | Gestión de taller de reparación: tickets, estados y comprobantes PDF · *Repair shop management* | `React` `Zustand` `Supabase` |
+| **Captura de Vacunas** | Digitaliza la captura del formato de vacunación desde el celular · *Mobile-first vaccination records* | `Next.js` `Supabase` `pdf-lib` |
+| **[OaxacoBOT](https://github.com/meyern01/OaxacoBOT)** | Bot de Discord con música, moderación, niveles, tickets y panel web · *All-in-one Discord bot* | `Node.js` `discord.js` |
 
-> 💡 **¿Tienes un proyecto?** Cotiza en **[getkodiak.dev](https://getkodiak.dev)** · *Have a project? Get a quote at getkodiak.dev.*
+> **¿Tienes un proyecto?** Cotiza en **[getkodiak.dev](https://getkodiak.dev)** · *Have a project? Get a quote at getkodiak.dev.*
 
 ---
 
-## 📊 Actividad · Activity
+## Actividad · Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=meyern01&theme=tokyonight&hide_border=true&background=0D1117&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6" alt="GitHub streak" />
@@ -129,7 +129,7 @@ const alfonso = {
 
 ---
 
-## 🏅 Certificaciones · Certifications
+## Certificaciones · Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
@@ -137,7 +137,7 @@ const alfonso = {
   <img src="https://img.shields.io/badge/Scrum_Master-Certified-0B1F33?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum Master" />
 </p>
 
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,45:13405C,100:0B1F33&height=110&section=footer" width="100%" alt="" />
 </p>
