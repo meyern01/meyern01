@@ -123,10 +123,6 @@ const alfonso = {
   <img src="https://streak-stats.demolab.com?user=meyern01&theme=tokyonight&hide_border=true&background=0D1117&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meyern01&bg_color=0D1117&color=c9d1d9&line=2EC4B6&point=ffffff&area=true&area_color=2EC4B6&hide_border=true" width="100%" alt="Activity graph" />
-</p>
-
 ---
 
 ## Certificaciones · Certifications
