@@ -117,14 +117,6 @@ const alfonso = {
 
 ---
 
-## Actividad · Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meyern01&theme=tokyonight&hide_border=true&background=0D1117&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6" alt="GitHub streak" />
-</p>
-
----
-
 ## Certificaciones · Certifications
 
 <p align="center">
